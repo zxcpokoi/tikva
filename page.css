@@ -1,0 +1,43 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body{
+	font-size: 20px;
+}
+
+h1	{
+	color: #B4B4B3s;
+	font-size: 50px;
+	margin: 30px;
+	font-family: 'Inclusive Sans', sans-serif;
+}
+
+p {
+	color: #black;
+	margin: 30px;
+	font-family: 'Inclusive Sans', sans-serif;
+
+}
+
+div{
+	width: 70%;
+	margin: auto;
+	padding: 50px;
+	background-image: url(https://pro-color.ru/wa-data/public/shop/products/00/59/5900/images/12514/12514.970.png);
+
+}
+
+a{
+	text-decoration: none;
+	color: black;
+	display: inline-block;
+	border-bottom: 1px solid transparent;
+	transition: 0.3s ease-in;
+}
+a:hover {
+	border-bottom-color: red;
+	font-size: 30px;
+}
